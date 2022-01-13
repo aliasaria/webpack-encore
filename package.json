@@ -1,6 +1,6 @@
 {
-  "name": "@symfony/webpack-encore",
-  "version": "0.21.0",
+  "name": "symfony/webpack-encore",
+  "version": "0.21.0-with-esbuild",
   "description": "",
   "main": "index.js",
   "scripts": {
