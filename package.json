@@ -1,5 +1,5 @@
 {
-  "name": "symfony/webpack-encore",
+  "name": "aliasaria/webpack-encore",
   "version": "0.21.0",
   "description": "",
   "main": "index.js",
